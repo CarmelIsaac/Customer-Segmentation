@@ -5,12 +5,11 @@ The bank has provided us with customer data, and through the use of data analysi
 These segments can be used to tailor marketing efforts to specific customer groups, thereby increasing the campaign's effectiveness.
 
 ## Table of Contents
-1. Data Overview
-2. Data Preprocessing
-3. Exploratory Data Analysis (EDA)
-4. Customer Segmentation
-5. Conclusion
-
+- [Data Overview](#data-overview)
+- [Data Preprocessing](#data-preprocessing)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [Customer Segmentation](#customer-segmentation)
+- [Conclusion](#conclusion)
 
 ## Data Overview
 The data provided by the bank contains information about their customers for the past six months. 
