@@ -1,4 +1,4 @@
-# Customer-Segmentation
+# Customer Segmentation Project
 ## Project Overview
 This project aims to help a bank's marketing team launch a targeted ad campaign by segmenting their customers into at least three distinctive groups based on the data collected over the past six months.
 The bank has provided us with customer data, and through the use of data analysis, preprocessing, and machine learning techniques, we have created customer segments.
